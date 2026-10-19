@@ -1,0 +1,52 @@
+{
+  "name": "Padmavati Navrang ZaykaWrap",
+  "short_name": "ZaykaWrap",
+  "description": "Premium Food Grade Aluminium Foil Products",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFD700",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/img/Logo-new.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/img/Logo-new.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "shopping"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Products",
+      "short_name": "Products",
+      "description": "View our product catalog",
+      "url": "/products.html",
+      "icons": [
+        {
+          "src": "assets/img/Logo-new.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Contact us",
+      "url": "/contact.html",
+      "icons": [
+        {
+          "src": "assets/img/Logo-new.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
